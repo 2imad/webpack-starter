@@ -1,2 +1,2 @@
 const message = require('./script1')
-alert(message)
+require('./css/style.css')
